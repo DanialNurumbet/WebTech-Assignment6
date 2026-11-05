@@ -7,4 +7,11 @@ $(document).ready(function() {
     $("#btn-image").click(function() { $("#image").attr("src", "https://i.pinimg.com/474x/e8/9b/a9/e89ba9acac986647347a41883e214ba0.jpg"); });
     $("#btn-link").click(function() { $("#link").attr("href", "https://www.w3schools.com/jquery/jquery_dom_set.asp"); });
     
+    $("#input-text").on("input", function(){
+        $("#output-name").text($(this).val());
+    });
+    $("#input-email").on("input", function(){
+        $("#output-email").text($(this).val());
+    });
+    
 });
