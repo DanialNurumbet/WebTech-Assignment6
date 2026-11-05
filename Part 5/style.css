@@ -1,0 +1,20 @@
+nav{
+    display: flex;
+    background-color: #0a0a0a;
+    color: #fafafa;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+nav a{
+    color: #fafafa;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
