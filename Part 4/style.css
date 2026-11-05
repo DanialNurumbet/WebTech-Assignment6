@@ -31,17 +31,11 @@ navbar a{
     border-radius: 5px;
 }
 
-#box-basic{
-    width: 100px;
-    height: 100px;
-    background-color: #bcae12;
-}
-
 .animation-area { 
     position: relative; 
     height: 200px; 
     overflow: hidden; 
-    background: #f0f4ec; 
+    background: #f9f8e2; 
     border-radius: 9px; 
     margin: 16px 0; 
 }
@@ -51,6 +45,6 @@ navbar a{
     left: 12px; 
     width: 100px; 
     height: 100px; 
-    background: #243313; 
+    background: #a38516; 
     border-radius: 8px; 
 }
