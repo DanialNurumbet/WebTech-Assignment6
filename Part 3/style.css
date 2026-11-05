@@ -30,3 +30,9 @@ navbar a{
     background-color: #bcae12;
     border-radius: 5px;
 }
+
+#btns-change{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
